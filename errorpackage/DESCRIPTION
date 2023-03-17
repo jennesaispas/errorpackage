@@ -1,0 +1,10 @@
+Package: errorpackage
+Type: Package
+Title: Modified square root and log function with function operator
+Version: 0.1.0
+Author: Tianyuzhou Liang
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Normal square root and log functions that gives error message with invalid inputs
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
